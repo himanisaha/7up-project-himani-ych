@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <ul>
+                <li>PRODUCTS</li>
+                <li>RECEIPES</li>
+                <li>STORES</li>
+                <li>ENG/SP</li>
+            </ul>
+            <img src="images/7up-logo-large.png">
+        </nav>
+    </header>
+    <div class="filters">
+        <div class="overlay">
+            I'm looking for
+        </div>
+        <div class="filter type">
+            <span>
+                Drink (21+)
+            </span>
+
+        </div>
+    </div>
+</body>
+
+</html>
